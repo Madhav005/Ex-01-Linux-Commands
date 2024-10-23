@@ -63,6 +63,7 @@ The cat command is a multi-purpose utility in the Linux system. It can be used t
 
 Syntax: cat [OPTION]... [FILE]..
 
+![image](https://github.com/user-attachments/assets/e4ae3098-bd65-4f06-9593-a930238cde30)
  
 ### 7)	cp Command
 
@@ -70,7 +71,7 @@ The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
 
-
+![image](https://github.com/user-attachments/assets/4cbd4704-ad1c-4e80-a54e-3feabbac0c0d)
 
 ### 8)	gedit Command
 
@@ -78,6 +79,7 @@ The gedit is a general-purpose text editor. It can be used to create and edit al
 
 Syntax: gedit file_name
 
+![image](https://github.com/user-attachments/assets/e74b51f1-5911-42c5-bd79-8e754c2986a6)
 
 ### 9)	su Command
 
@@ -85,12 +87,16 @@ The su command provides administrative access to another user. In other words, i
 
 Syntax: su <user name>
 
+![image](https://github.com/user-attachments/assets/51b28c98-4c80-42aa-bf4f-3eaecb68016c)
+
 
 ### 10)	mv Command
 
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+
+![image](https://github.com/user-attachments/assets/e00b8aa1-fa0c-484d-92c2-81f184ebd123)
 
  
 ## 11)	rename Command
